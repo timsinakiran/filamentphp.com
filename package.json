@@ -19,7 +19,7 @@
         "autoprefixer": "^10.4.16",
         "gsap": "^3.12.2",
         "laravel-vite-plugin": "^0.8.1",
-        "lodash": "^4.17.21",
+        "lodash": "^4.17.23",
         "minisearch": "^6.3.0",
         "postcss": "^8.4.31",
         "prettier": "^2.8.8",
